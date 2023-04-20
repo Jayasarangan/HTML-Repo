@@ -1,0 +1,18 @@
+body{
+    background-image: url(buddha\ 7\ .jpg);
+    background-size: cover;
+}
+label{
+margin-left: 700px;
+}
+.areacode{
+width:50px;
+}
+button{
+width: 30%;
+margin-left: 30%;
+
+}
+table label, table input{
+margin: 10px;
+}

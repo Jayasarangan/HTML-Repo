@@ -1,0 +1,86 @@
+high{
+    border:2px solid rgb(114, 228, 114);
+    width:400px;
+    height:400px;
+    box-shadow: 10px 10px rgb(104, 215, 104);
+    border-radius: 20px;
+
+}
+.high1{
+    border:2px solid rgba(230, 47, 47, 0.856);
+    width:400px;
+    height:400px;
+    margin-left: 450px;
+    position: relative;
+    bottom: 400px;
+    box-shadow: 10px 10px rgb(225, 45, 45);
+    border-radius: 20px;
+}
+.customer{
+    font-size:25px;
+    margin-left:140px;
+    margin-top:50px;
+}
+.customer1{
+    font-size: 25px;
+    margin-top:50px;
+}
+.button{
+    font-size: 15px;
+    margin-left: 150px;
+    background-color: rgb(87, 195, 87);
+    width:150px;
+}
+.customer2{
+    font-size: 25px;
+    color: rgb(56, 206, 56);
+    margin-left: 75px;
+    text-decoration-line: underline;
+}
+.write{
+    font-size: 25px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.write1{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.button1{
+    font-size: 20px;
+    margin-left: 154px;
+    background-color: rgb(230, 19, 19);
+}
+.high2{
+    border: 2px solid rgb(113, 113, 222);
+    width:400px;
+    height:400px;
+    box-shadow: 10px 10px rgb(103, 103, 234);
+    border-radius: 20px;
+    margin-left: 920px;
+    position: relative;
+    bottom: 800px;
+}
+.sales{
+    font-size: 25px;
+    margin-left: 110px;
+    margin-top: 50px;
+}
+.sales1{
+    margin-left: 50px;
+    font-size: 20px;
+}
+.salesbutton{
+    margin-left: 150px;
+    width:105px;
+    height:35px;
+    color: rgb(75, 75, 232);
+    background-color: rgb(22, 22, 207);
+}
+.sales2{
+    font-size: 20px;
+    margin-left: 150px;
+    color: rgb(5, 5, 128);
+    text-decoration-line: underline;
+}

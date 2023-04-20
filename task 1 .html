@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <title>login</title>
+    <style>
+        body{
+            background-image:linear-gradient(to right,rgb(187, 187, 238),green)
+            
+        }
+        div
+        {
+            width:320px;
+            padding:10px;
+            border:5px ;
+            margin:auto;
+        }
+    button{
+        background-color: green;
+        border:none;
+        color:white;
+        width: 117%;
+        padding: 10px;
+        text-align:center;
+        text-decoration:none;
+        display: inline -block;
+        font-size:16px;
+    }
+        .forget {
+            margin-left: 121px;
+        }
+        .username{
+            
+            padding:10px 5px;
+        }
+        .password{
+            padding:10px 5px;
+        }
+    </style>
+</head>
+<body>
+    <h2 align="center">login form using HTML and css</h2>
+
+    <div>
+       <h4 align="center">sign in</h4>
+       <h4 align="center">sign in with your name and password</h4>
+       <table>
+        <tr>
+            <td>your username</td>
+        </tr>
+        <tr>
+            <td><input type ="text" id="username" placeholder="username" size="50" class="username"></td>
+        </tr>
+        <tr>
+            <td>your password</td>
+        
+        </tr>
+        <tr><td><input type="password" id="password" placeholder="password" size="50" class="password"></td></tr>
+        <tr>
+            <td><input type="checkbox" id="remember me"> Remember me          
+            <a href="https://www.facebook.com/" class="forget ">Forget password</a></td>
+        </tr>
+        </table>
+        <button >login</button>
+        <h4 align="center">Not a member ?<a href="https://www.facebook.com/"> Registerhere</a></h4>
+    </div>
+</body>
+</html>
